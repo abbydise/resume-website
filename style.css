@@ -1,0 +1,27 @@
+* {
+    font-family: "Times New Roman";
+}
+
+a {
+    cursor: pointer;
+}
+
+h1 {
+    text-align: center;
+}
+
+menu {
+    text-align: center;
+    padding-right: 25px;
+}
+
+menu li {
+    list-style: none;
+    display: inline-block;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.experience {
+    text-align: center;
+}
